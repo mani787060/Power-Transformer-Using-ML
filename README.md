@@ -1,6 +1,6 @@
-## PowerTransformer in Machine Learning
+# PowerTransformer in Machine Learning
 
--> This project demonstrates the use of **scikit-learn’s PowerTransformer** to stabilize variance, reduce skewness, and make features more normally distributed.  
+-> This project demonstrates the use of "scikit-learn’s PowerTransformer" to stabilize variance, reduce skewness, and make features more normally distributed.  
 -> It’s a powerful preprocessing technique for improving model performance, especially when dealing with non-Gaussian data.
 
 
